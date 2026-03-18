@@ -1,6 +1,11 @@
 # ❤️ Heart Disease Prediction Project
 
-GitHub repo size • GitHub stars • GitHub forks • Python Status
+
+![GitHub repo size](https://img.shields.io/github/repo-size/farehax/Sales_Department_project)
+![GitHub stars](https://img.shields.io/github/stars/farehax/Sales_Department_project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/farehax/Sales_Department_project?style=social)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
@@ -22,6 +27,25 @@ This interactive Streamlit application allows users to:
 This project focuses on predicting the presence of heart disease using multiple Machine Learning algorithms. The goal is to analyze medical data, identify patterns, and build a predictive system for early detection.
 
 ---
+## 📂 Project Structure
+
+```
+Heart-Disease-Prediction/
+│── .ipynb_checkpoints/              # Notebook auto-saved checkpoints
+│── images.png/                     # Visualizations (EDA plots)
+│── heart.csv                       # Dataset
+│── HeartdiseaseFinal.ipynb         # Jupyter Notebook (EDA + Model Building)
+│── app.py                          # Streamlit application
+│── KNN_heart.pkl                   # Trained KNN model
+│── knn_heart_model.pkl             # Final saved model
+│── scaler.pkl                      # Feature scaler
+│── heart_scaler.pkl                # Alternative scaler file
+│── columns.pkl                     # Feature columns
+│── heart_columns.pkl               # Alternative feature columns
+│── requirements.txt                # Dependencies
+│── runtime.txt                     # Python version (for deployment)
+│── README.md                       # Project documentation
+```
 
 ## ⭐ Key Highlights
 
