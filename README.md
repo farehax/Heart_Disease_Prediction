@@ -85,7 +85,7 @@ The dataset contains medical attributes such as:
 ### 1️⃣ Clone the repository
 
 
-git clone https://github.com/farehax/Heart-Disease-Prediction.git
+git clone https://github.com/farehax/Heart_Disease_Prediction.git
 
 cd Heart-Disease-Prediction
 
